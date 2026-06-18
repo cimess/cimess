@@ -3,7 +3,7 @@ Full‑Stack Engineer • React | Node (Express · Fastify) | PostgreSQL · Mong
 
 [![Website](https://img.shields.io/website?label=Live%20Site&url=https%3A%2F%2Fcimessinvest.com)](https://cimessinvest.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/aimuan-thankgod-cimessdev) [![Email](https://img.shields.io/badge/Email-cimessthemanofvalor%40gmail.com-D14836?logo=gmail)](mailto:cimessthemanofvalor@gmail.com)
 
-I build production‑grade web applications and APIs that move businesses forward — apps that are fast, maintainable, and built to scale. I deliver clean React frontends, high-performance Node backends (Express & Fastify), and robust data layers with PostgreSQL and MongoDB. My focus is on shipping measurable outcomes: faster time-to-market, better user retention, and reliable ops.
+I build production‑grade web applications and APIs that move businesses forward — apps that are fast, maintainable, and built to scale. I deliver clean React,nextjs(SSR) frontends, high-performance Node backends (Express & Fastify), and robust data layers with PostgreSQL and MongoDB. My focus is on shipping measurable outcomes: faster time-to-market, better user retention, and reliable ops.
 
 Live projects (verify my work)
 - 🔗 **CIMESS Invest** — https://cimessinvest.com — Investment platform & portfolio flows (production site).
